@@ -1,0 +1,211 @@
+about:
+  description: "DeepSeek Harness: Everything is a Plugin."
+  license: MIT
+  homepage: https://deepseek.com/harness
+  head: d347e70
+  archived: false
+  latestVersion: "dsh-v0.1.3-alpha.1"
+  collectedAt: 2026-09-07T04:36:09Z
+timeline:
+  created: 2026-08-13
+  lastCommit: 2026-09-04
+  lastRelease: 2026-09-04
+popularity:
+  star: 214260
+  watcher: 925
+  fork: 25229
+  release: 11
+  contributor: 40
+  pullRequest: 0
+  issue: 0
+language:
+  TypeScript: 32381780
+  CSS: 459216
+  Python: 382044
+  JavaScript: 127274
+  Shell: 17261
+  C: 11763
+  C++: 4737
+  HTML: 421
+totalBytes: 33384496
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 11
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 2524
+  last60d:
+    since: 2026-07-09
+    release: 11
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 12295
+  last90d:
+    since: 2026-06-09
+    release: 11
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 14488
+  last180d:
+    since: 2026-03-11
+    release: 11
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 14555
+  last360d:
+    since: 2025-09-12
+    release: 11
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 14555
+  last720d:
+    since: 2024-09-17
+    release: 11
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 15210
+total:
+  release: 11
+  mergedPR: 0
+  openPR: 0
+  closedIssue: 0
+  openIssue: 0
+  commit: 15210
+---
+path: /home/runner/.x-repo/github.com/deepseek-ai/deepseek-harness
+collectedAt: 2026-09-07T04:36:38Z
+loc:
+  TypeScript:
+    code: 538251
+    comments: 92213
+    blanks: 54024
+    files: 2919
+  Tsx:
+    code: 68816
+    comments: 7729
+    blanks: 6132
+    files: 306
+  Json:
+    code: 60413
+    comments: 0
+    blanks: 2
+    files: 730
+  Yaml:
+    code: 28551
+    comments: 2605
+    blanks: 2309
+    files: 756
+  Css:
+    code: 15546
+    comments: 1540
+    blanks: 2336
+    files: 124
+  Python:
+    code: 6658
+    comments: 883
+    blanks: 898
+    files: 20
+  JavaScript:
+    code: 2695
+    comments: 351
+    blanks: 320
+    files: 44
+  Sh:
+    code: 297
+    comments: 71
+    blanks: 38
+    files: 7
+  C:
+    code: 177
+    comments: 96
+    blanks: 25
+    files: 1
+  Cpp:
+    code: 116
+    comments: 0
+    blanks: 6
+    files: 2
+  Toml:
+    code: 54
+    comments: 3
+    blanks: 13
+    files: 2
+  Svg:
+    code: 30
+    comments: 0
+    blanks: 0
+    files: 3
+  Html:
+    code: 14
+    comments: 0
+    blanks: 0
+    files: 1
+  Ini:
+    code: 3
+    comments: 2
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 106500
+    blanks: 42225
+    files: 1120
+  Text:
+    code: 0
+    comments: 1613
+    blanks: 8
+    files: 83
+total:
+  code: 726967
+  comments: 213985
+  blanks: 108528
+  files: 6119
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T04:36:41+00:00
+  platform:
+    darwin/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    darwin/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
