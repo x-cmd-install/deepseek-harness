@@ -1,0 +1,25 @@
+- repo: aur
+  srcname: deepseek-harness-bin
+  binname: deepseek-harness-bin
+  visiblename: deepseek-harness-bin
+  version: 0.1.5rc1
+  origversion: 0.1.5rc.1-1
+  status: unique
+  summary: DeepSeek Harness CLI and agent harness
+  maintainers:
+    - aromatic@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: deepseek-harness-git
+  binname: deepseek-harness-git
+  visiblename: deepseek-harness-git
+  version: 0.1.5.alpha.1.r16089.g5dda764
+  origversion: 0.1.5.alpha.1.r16089.g5dda764-2
+  status: rolling
+  summary: DeepSeek Harness CLI and agent harness (git)
+  maintainers:
+    - aromatic@aur
+    - c.schmidpeter@aur
+  licenses:
+    - MIT
