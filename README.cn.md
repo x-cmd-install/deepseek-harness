@@ -12,7 +12,7 @@ DeepSeek Harness: Everything is a Plugin.
 x install deepseek-harness
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **805,639** 行代码（覆盖前 5 种语言、共 **5446** 个文件）。
 
@@ -37,7 +37,7 @@ x install deepseek-harness
 
 ## 流行度
 
-- **Star**: 219,048 · **Fork**: 25,892 · **开放 issue**: 0 · **贡献者**: 44
+- **Star**: 219,092 · **Fork**: 25,900 · **开放 issue**: 0 · **贡献者**: 44
 
 ## 累计统计
 
@@ -63,4 +63,4 @@ deepseek-harness 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T20:59:57Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T22:55:31Z._

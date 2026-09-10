@@ -37,7 +37,7 @@ Total: **805,639** lines of code across **5446** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 219,048 · **Forks**: 25,892 · **Open issues**: 0 · **Contributors**: 44
+- **Stars**: 219,092 · **Forks**: 25,900 · **Open issues**: 0 · **Contributors**: 44
 
 ## Totals (cumulative)
 
@@ -63,4 +63,4 @@ Install metadata for deepseek-harness lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:59:57Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:55:31Z._
