@@ -7,7 +7,7 @@ about:
   latestVersion: "dsh-v0.1.5-rc.2"
   latestRelease: ""
   latestPrerelease: "dsh-v0.1.5-rc.2"
-  collectedAt: 2026-09-10T20:59:16Z
+  collectedAt: 2026-09-10T22:54:55Z
 timeline:
   created: 2026-08-13
   lastCommit: 2026-09-10
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 
   lastPrerelease: 2026-09-10
 popularity:
-  star: 219048
-  watcher: 929
-  fork: 25892
+  star: 219092
+  watcher: 930
+  fork: 25900
   release: 16
   contributor: 44
   pullRequest: 0
@@ -93,7 +93,7 @@ total:
   commit: 16511
 ---
 path: /home/runner/.x-repo/github.com/deepseek-ai/deepseek-harness
-collectedAt: 2026-09-10T20:59:47Z
+collectedAt: 2026-09-10T22:55:24Z
 loc:
   TypeScript:
     code: 603860
