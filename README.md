@@ -12,6 +12,18 @@ DeepSeek Harness: Everything is a Plugin.
 x install deepseek-harness
 ```
 
+## Code insight
+
+Total: **805,639** lines of code across **5446** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| TypeScript | 603,860 | 100,262 | 59,578 | 3351 |
+| Tsx | 78,093 | 8,802 | 6,857 | 365 |
+| Json | 61,938 | 0 | 1 | 779 |
+| Yaml | 31,747 | 2,721 | 2,530 | 807 |
+| Css | 17,063 | 1,946 | 2,569 | 144 |
+
 ## Source
 
 - **Upstream**: <https://github.com/deepseek-ai/deepseek-harness>
@@ -25,7 +37,7 @@ x install deepseek-harness
 
 ## Popularity
 
-- **Stars**: 218,908 · **Forks**: 25,872 · **Open issues**: 0 · **Contributors**: 44
+- **Stars**: 219,048 · **Forks**: 25,892 · **Open issues**: 0 · **Contributors**: 44
 
 ## Totals (cumulative)
 
@@ -36,20 +48,11 @@ x install deepseek-harness
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 16 | 0 | 0 | 0 | 0 | 3782 |
+| last60d | 2026-07-12 | 16 | 0 | 0 | 0 | 0 | 13553 |
 | 90d | 2026-06-12 | 16 | 0 | 0 | 0 | 0 | 15746 |
+| last180d | 2026-03-14 | 16 | 0 | 0 | 0 | 0 | 15813 |
 | 360d | 2025-09-15 | 16 | 0 | 0 | 0 | 0 | 15813 |
-
-## Code size
-
-Total: **805,639** lines of code across **5446** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| TypeScript | 603,860 | 100,262 | 59,578 | 3351 |
-| Tsx | 78,093 | 8,802 | 6,857 | 365 |
-| Json | 61,938 | 0 | 1 | 779 |
-| Yaml | 31,747 | 2,721 | 2,530 | 807 |
-| Css | 17,063 | 1,946 | 2,569 | 144 |
+| last720d | 2024-09-20 | 16 | 0 | 0 | 0 | 0 | 16511 |
 
 ## Improve this data
 
@@ -60,4 +63,4 @@ Install metadata for deepseek-harness lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:33:35Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:59:57Z._
