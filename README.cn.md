@@ -4,7 +4,7 @@
 
 DeepSeek Harness: Everything is a Plugin.
 
-![deepseek-harness](https://repo.x-cmd.io/deepseek-harness.svg?lang=zh)
+[![x-cmd/install — deepseek-harness Code Quality Monitoring Repo Card](https://repo.x-cmd.io/deepseek-harness.svg?lang=zh)](https://x-cmd.com/install/deepseek-harness)
 
 ## 安装
 
@@ -37,7 +37,7 @@ x install deepseek-harness
 
 ## 流行度
 
-- **Star**: 228,229 · **Fork**: 27,265 · **开放 issue**: 0 · **贡献者**: 46
+- **Star**: 230,321 · **Fork**: 27,588 · **开放 issue**: 0 · **贡献者**: 46
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install deepseek-harness
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 17 | 0 | 0 | 0 | 0 | 4575 |
-| last60d | 2026-07-20 | 18 | 0 | 0 | 0 | 0 | 13344 |
-| 90d | 2026-06-20 | 18 | 0 | 0 | 0 | 0 | 16919 |
-| last180d | 2026-03-22 | 18 | 0 | 0 | 0 | 0 | 17341 |
-| 360d | 2025-09-23 | 18 | 0 | 0 | 0 | 0 | 17341 |
-| last720d | 2024-09-28 | 18 | 0 | 0 | 0 | 0 | 18059 |
+| 30d | 2026-08-21 | 16 | 0 | 0 | 0 | 0 | 3297 |
+| last60d | 2026-07-22 | 18 | 0 | 0 | 0 | 0 | 10725 |
+| 90d | 2026-06-22 | 18 | 0 | 0 | 0 | 0 | 16811 |
+| last180d | 2026-03-24 | 18 | 0 | 0 | 0 | 0 | 17341 |
+| 360d | 2025-09-25 | 18 | 0 | 0 | 0 | 0 | 17341 |
+| last720d | 2024-09-30 | 18 | 0 | 0 | 0 | 0 | 18059 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ deepseek-harness 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:46:34Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T04:51:41Z._

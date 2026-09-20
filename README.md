@@ -4,7 +4,7 @@
 
 DeepSeek Harness: Everything is a Plugin.
 
-![deepseek-harness](https://repo.x-cmd.io/deepseek-harness.svg)
+[![x-cmd/install — deepseek-harness Code Quality Monitoring Repo Card](https://repo.x-cmd.io/deepseek-harness.svg)](https://x-cmd.com/install/deepseek-harness)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **1,513,900** lines of code across **6382** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 228,229 · **Forks**: 27,265 · **Open issues**: 0 · **Contributors**: 46
+- **Stars**: 230,321 · **Forks**: 27,588 · **Open issues**: 0 · **Contributors**: 46
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **1,513,900** lines of code across **6382** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 17 | 0 | 0 | 0 | 0 | 4575 |
-| last60d | 2026-07-20 | 18 | 0 | 0 | 0 | 0 | 13344 |
-| 90d | 2026-06-20 | 18 | 0 | 0 | 0 | 0 | 16919 |
-| last180d | 2026-03-22 | 18 | 0 | 0 | 0 | 0 | 17341 |
-| 360d | 2025-09-23 | 18 | 0 | 0 | 0 | 0 | 17341 |
-| last720d | 2024-09-28 | 18 | 0 | 0 | 0 | 0 | 18059 |
+| 30d | 2026-08-21 | 16 | 0 | 0 | 0 | 0 | 3297 |
+| last60d | 2026-07-22 | 18 | 0 | 0 | 0 | 0 | 10725 |
+| 90d | 2026-06-22 | 18 | 0 | 0 | 0 | 0 | 16811 |
+| last180d | 2026-03-24 | 18 | 0 | 0 | 0 | 0 | 17341 |
+| 360d | 2025-09-25 | 18 | 0 | 0 | 0 | 0 | 17341 |
+| last720d | 2024-09-30 | 18 | 0 | 0 | 0 | 0 | 18059 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for deepseek-harness lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:46:33Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:51:40Z._
