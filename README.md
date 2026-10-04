@@ -32,27 +32,27 @@ Total: **1,792,600** lines of code across **7689** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `dsh-v0.2.0-rc.2`
+- **Latest**: `dsh-v0.2.1-alpha.1`
 - **Last commit**: 2026-10-03
 
 ## Popularity
 
-- **Stars**: 242,471 · **Forks**: 29,080 · **Open issues**: 0 · **Contributors**: 52
+- **Stars**: 243,008 · **Forks**: 29,133 · **Open issues**: 0 · **Contributors**: 52
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 20736
+- **Releases**: 25 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 20736
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 15 | 0 | 0 | 0 | 0 | 4731 |
-| last60d | 2026-08-04 | 24 | 0 | 0 | 0 | 0 | 10126 |
-| 90d | 2026-07-05 | 24 | 0 | 0 | 0 | 0 | 18557 |
-| last180d | 2026-04-06 | 24 | 0 | 0 | 0 | 0 | 19526 |
-| 360d | 2025-10-08 | 24 | 0 | 0 | 0 | 0 | 19526 |
-| last720d | 2024-10-13 | 24 | 0 | 0 | 0 | 0 | 20736 |
+| 30d | 2026-09-04 | 15 | 0 | 0 | 0 | 0 | 3234 |
+| last60d | 2026-08-05 | 25 | 0 | 0 | 0 | 0 | 7900 |
+| 90d | 2026-07-06 | 25 | 0 | 0 | 0 | 0 | 17896 |
+| last180d | 2026-04-07 | 25 | 0 | 0 | 0 | 0 | 19526 |
+| 360d | 2025-10-09 | 25 | 0 | 0 | 0 | 0 | 19526 |
+| last720d | 2024-10-14 | 25 | 0 | 0 | 0 | 0 | 20736 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for deepseek-harness lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:14:12Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T05:49:45Z._
