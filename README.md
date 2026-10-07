@@ -37,7 +37,7 @@ Total: **1,792,600** lines of code across **7689** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 244,169 · **Forks**: 29,251 · **Open issues**: 0 · **Contributors**: 52
+- **Stars**: 244,745 · **Forks**: 29,329 · **Open issues**: 0 · **Contributors**: 52
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **1,792,600** lines of code across **7689** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 14 | 0 | 0 | 0 | 0 | 3234 |
-| last60d | 2026-08-07 | 25 | 0 | 0 | 0 | 0 | 7900 |
-| 90d | 2026-07-08 | 25 | 0 | 0 | 0 | 0 | 17896 |
-| last180d | 2026-04-09 | 25 | 0 | 0 | 0 | 0 | 19526 |
-| 360d | 2025-10-11 | 25 | 0 | 0 | 0 | 0 | 19526 |
-| last720d | 2024-10-16 | 25 | 0 | 0 | 0 | 0 | 20736 |
+| 30d | 2026-09-07 | 14 | 0 | 0 | 0 | 0 | 3234 |
+| last60d | 2026-08-08 | 25 | 0 | 0 | 0 | 0 | 7900 |
+| 90d | 2026-07-09 | 25 | 0 | 0 | 0 | 0 | 17896 |
+| last180d | 2026-04-10 | 25 | 0 | 0 | 0 | 0 | 19526 |
+| 360d | 2025-10-12 | 25 | 0 | 0 | 0 | 0 | 19526 |
+| last720d | 2024-10-17 | 25 | 0 | 0 | 0 | 0 | 20736 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for deepseek-harness lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:20:13Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T05:51:10Z._
