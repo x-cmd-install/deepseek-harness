@@ -14,15 +14,15 @@ x install deepseek-harness
 
 ## Code insight
 
-Total: **1,946,363** lines of code across **8902** files in the top 5 languages.
+Total: **1,947,921** lines of code across **8912** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 879,407 | 125,611 | 78,885 | 5168 |
-| Json | 796,010 | 0 | 6 | 1599 |
-| Tsx | 136,597 | 14,105 | 11,031 | 658 |
-| Yaml | 74,510 | 3,502 | 3,290 | 1256 |
-| Css | 25,379 | 2,620 | 3,842 | 221 |
+| TypeScript | 880,449 | 125,694 | 78,950 | 5175 |
+| Json | 796,039 | 0 | 6 | 1601 |
+| Tsx | 136,751 | 14,095 | 11,037 | 658 |
+| Yaml | 74,541 | 3,506 | 3,291 | 1257 |
+| Css | 25,383 | 2,625 | 3,842 | 221 |
 
 ## Source
 
@@ -32,27 +32,27 @@ Total: **1,946,363** lines of code across **8902** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `dsh-v0.2.1-alpha.4`
-- **Last commit**: 2026-10-15
+- **Latest**: `dsh-v0.2.1-alpha.5`
+- **Last commit**: 2026-10-16
 
 ## Popularity
 
-- **Stars**: 250,581 · **Forks**: 30,123 · **Open issues**: 0 · **Contributors**: 53
+- **Stars**: 251,258 · **Forks**: 30,211 · **Open issues**: 0 · **Contributors**: 53
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 22346
+- **Releases**: 29 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 22382
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 11 | 0 | 0 | 0 | 0 | 3699 |
-| last60d | 2026-08-17 | 28 | 0 | 0 | 0 | 0 | 8690 |
-| 90d | 2026-07-18 | 28 | 0 | 0 | 0 | 0 | 17749 |
-| last180d | 2026-04-19 | 28 | 0 | 0 | 0 | 0 | 21110 |
-| 360d | 2025-10-21 | 28 | 0 | 0 | 0 | 0 | 21110 |
-| last720d | 2024-10-26 | 28 | 0 | 0 | 0 | 0 | 22346 |
+| 30d | 2026-09-17 | 12 | 0 | 0 | 0 | 0 | 3731 |
+| last60d | 2026-08-18 | 28 | 0 | 0 | 0 | 0 | 8722 |
+| 90d | 2026-07-19 | 29 | 0 | 0 | 0 | 0 | 17781 |
+| last180d | 2026-04-20 | 29 | 0 | 0 | 0 | 0 | 21142 |
+| 360d | 2025-10-22 | 29 | 0 | 0 | 0 | 0 | 21142 |
+| last720d | 2024-10-27 | 29 | 0 | 0 | 0 | 0 | 22382 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for deepseek-harness lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:27:40Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:22:39Z._
