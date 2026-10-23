@@ -1,0 +1,44 @@
+- repo: aur
+  srcname: deepseek-harness-bin
+  binname: deepseek-harness-bin
+  visiblename: deepseek-harness-bin
+  version: 0.2.1rc2
+  origversion: 0.2.1rc.2-1
+  status: devel
+  summary: DeepSeek Harness CLI and agent harness
+  maintainers:
+    - aromatic@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: deepseek-harness-git
+  binname: deepseek-harness-git
+  visiblename: deepseek-harness-git
+  version: 0.1.5.alpha.1.r16089.g5dda764
+  origversion: 0.1.5.alpha.1.r16089.g5dda764-2
+  status: rolling
+  summary: DeepSeek Harness CLI and agent harness (git)
+  maintainers:
+    - aromatic@aur
+    - c.schmidpeter@aur
+  licenses:
+    - MIT
+- repo: homebrew_casks
+  srcname: deepseek-harness
+  visiblename: DeepSeek Harness
+  version: 0.2.1-rc2
+  origversion: 0.2.1-rc.2
+  status: devel
+  summary: Plugin-based AI agent desktop application
+- repo: nix_unstable
+  srcname: deepseek-harness
+  visiblename: deepseek-harness
+  version: 0.2.1-alpha3
+  origversion: 0.2.1-alpha.3
+  status: outdated
+  summary: AI agent harness with a plugin-based architecture
+  maintainers:
+    - dietrich@daroch.me
+    - nixos@tlvince.com
+  licenses:
+    - MIT
