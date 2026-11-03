@@ -2,8 +2,8 @@
   srcname: deepseek-harness-bin
   binname: deepseek-harness-bin
   visiblename: deepseek-harness-bin
-  version: 0.2.1rc4
-  origversion: 0.2.1rc.4-1
+  version: 0.2.1rc5
+  origversion: 0.2.1rc.5-1
   status: devel
   summary: DeepSeek Harness CLI and agent harness
   maintainers:
@@ -28,7 +28,7 @@
   visiblename: DeepSeek Harness
   version: 0.2.1-rc5
   origversion: 0.2.1-rc.5
-  status: untrusted
+  status: devel
   summary: Plugin-based AI agent desktop application
 - repo: nix_unstable
   srcname: deepseek-harness
