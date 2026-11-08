@@ -33,9 +33,9 @@
 - repo: nix_unstable
   srcname: deepseek-harness
   visiblename: deepseek-harness
-  version: 0.2.1-rc3
-  origversion: 0.2.1-rc.3
-  status: outdated
+  version: 0.2.2-rc1
+  origversion: 0.2.2-rc.1
+  status: devel
   summary: AI agent harness with a plugin-based architecture
   maintainers:
     - dietrich@daroch.me
