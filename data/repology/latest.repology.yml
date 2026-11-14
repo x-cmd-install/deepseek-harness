@@ -26,8 +26,8 @@
 - repo: homebrew_casks
   srcname: deepseek-harness
   visiblename: DeepSeek Harness
-  version: 0.2.2-rc2
-  origversion: 0.2.2-rc.2
+  version: 0.2.2-rc3
+  origversion: 0.2.2-rc.3
   status: untrusted
   summary: Plugin-based AI agent desktop application
 - repo: nix_unstable
