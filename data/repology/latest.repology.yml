@@ -42,3 +42,39 @@
     - nixos@tlvince.com
   licenses:
     - MIT
+- repo: rosa_2019_1
+  subrepo: contrib/release
+  srcname: deepseek-harness
+  binnames:
+    - deepseek-harness
+    - deepseek-harness-debuginfo
+    - deepseek-harness-debugsource
+  visiblename: deepseek-harness
+  version: 0.2.2~rc3
+  origversion: 0.2.2~rc.3-2
+  status: untrusted
+  summary: Agent harness by DeepSeek with a local Web UI
+  maintainers:
+    - m.novosyolov@rosalinux.ru
+  licenses:
+    - MIT and MPL-2.0
+  categories:
+    - Networking/WWW
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: deepseek-harness
+  binnames:
+    - deepseek-harness
+    - deepseek-harness-debuginfo
+    - deepseek-harness-debugsource
+  visiblename: deepseek-harness
+  version: 0.2.2~rc3
+  origversion: 0.2.2~rc.3-3
+  status: untrusted
+  summary: Agent harness by DeepSeek with a local Web UI
+  maintainers:
+    - m.novosyolov@rosalinux.ru
+  licenses:
+    - MIT and MPL-2.0
+  categories:
+    - Networking/WWW
