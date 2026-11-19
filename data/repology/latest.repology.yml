@@ -2,8 +2,8 @@
   srcname: deepseek-harness-bin
   binname: deepseek-harness-bin
   visiblename: deepseek-harness-bin
-  version: 0.2.2rc1
-  origversion: 0.2.2rc.1-1
+  version: 0.2.2rc5
+  origversion: 0.2.2rc.5-1
   status: devel
   summary: DeepSeek Harness CLI and agent harness
   maintainers:
@@ -26,16 +26,16 @@
 - repo: homebrew_casks
   srcname: deepseek-harness
   visiblename: DeepSeek Harness
-  version: 0.2.2-rc3
-  origversion: 0.2.2-rc.3
-  status: untrusted
+  version: 0.2.2-rc5
+  origversion: 0.2.2-rc.5
+  status: devel
   summary: Plugin-based AI agent desktop application
 - repo: nix_unstable
   srcname: deepseek-harness
   visiblename: deepseek-harness
   version: 0.2.2-rc1
   origversion: 0.2.2-rc.1
-  status: devel
+  status: outdated
   summary: AI agent harness with a plugin-based architecture
   maintainers:
     - dietrich@daroch.me
@@ -52,7 +52,7 @@
   visiblename: deepseek-harness
   version: 0.2.2~rc3
   origversion: 0.2.2~rc.3-4
-  status: untrusted
+  status: outdated
   summary: Agent harness by DeepSeek with a local Web UI
   maintainers:
     - m.novosyolov@rosalinux.ru
@@ -70,7 +70,7 @@
   visiblename: deepseek-harness
   version: 0.2.2~rc3
   origversion: 0.2.2~rc.3-4
-  status: untrusted
+  status: outdated
   summary: Agent harness by DeepSeek with a local Web UI
   maintainers:
     - m.novosyolov@rosalinux.ru
