@@ -69,7 +69,7 @@
     - deepseek-harness-debugsource
   visiblename: deepseek-harness
   version: 0.2.2~rc3
-  origversion: 0.2.2~rc.3-5
+  origversion: 0.2.2~rc.3-6
   status: outdated
   summary: Agent harness by DeepSeek with a local Web UI
   maintainers:
