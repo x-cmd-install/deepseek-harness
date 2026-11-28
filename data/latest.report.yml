@@ -7,7 +7,7 @@ about:
   latestVersion: "dsh-v0.2.3-alpha.2"
   latestRelease: ""
   latestPrerelease: "dsh-v0.2.3-alpha.2"
-  collectedAt: 2026-11-27T08:28:21Z
+  collectedAt: 2026-11-28T07:47:26Z
 timeline:
   created: 2026-08-13
   lastCommit: 2026-11-22
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 
   lastPrerelease: 2026-11-22
 popularity:
-  star: 287814
-  watcher: 1182
-  fork: 35939
+  star: 288168
+  watcher: 1183
+  fork: 36001
   release: 43
   contributor: 63
   pullRequest: 0
@@ -40,23 +40,23 @@ language:
 totalBytes: 85200206
 recent:
   last30d:
-    since: 2026-10-28
-    release: 11
+    since: 2026-10-29
+    release: 9
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
     commit: 3334
   last60d:
-    since: 2026-09-28
-    release: 21
+    since: 2026-09-29
+    release: 20
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
     commit: 7473
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 38
     mergedPR: 0
     openPR: 0
@@ -64,7 +64,7 @@ recent:
     openIssue: 0
     commit: 12961
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 43
     mergedPR: 0
     openPR: 0
@@ -72,7 +72,7 @@ recent:
     openIssue: 0
     commit: 27249
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 43
     mergedPR: 0
     openPR: 0
@@ -80,7 +80,7 @@ recent:
     openIssue: 0
     commit: 27249
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 43
     mergedPR: 0
     openPR: 0
@@ -96,7 +96,7 @@ total:
   commit: 28972
 ---
 path: /home/runner/.x-repo/github.com/deepseek-ai/deepseek-harness
-collectedAt: 2026-11-27T08:29:26Z
+collectedAt: 2026-11-28T07:48:29Z
 loc:
   TypeScript:
     code: 1204812
